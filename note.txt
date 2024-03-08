@@ -1,0 +1,29 @@
+yarn --version
+
+INSTALL
+npm install --global yarn
+
+EXECUTION POLICY BYPASS
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Get-ExecutionPolicy
+Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy Default
+
+yarn
+yarn start
+
+yarn add swiper
+
+yarn add emailjs
+## dashboard.emailjs.com/admin/templates
+
+yarn add @emailjs/browser
+
+yarn add @iconscout/react-unicons
+
+yarn add framer-motion
+
+yarn add react-scroll
+
+yarn build
